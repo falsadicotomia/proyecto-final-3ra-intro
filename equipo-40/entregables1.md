@@ -1,12 +1,12 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
-- ¿Porque eligieron ese problema?
-- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
-- Describe las tareas que harán cada miembro de su grupo:
-- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
+- Número del equipo: <b>_40_</b>
+- Nombre del equipo: <b>_Melusina_</b>
+- Nombre de todos miembros en tu equipo: <b>_Constanza Vilches y Rinnette Riande_</b>
+- ¿Qué problema global eligieron ustedes? <b>_Contaminación en el océano causada por el COVID-19: El caso de las mascarillas/cubrebocas._</b>
+- ¿Porque eligieron ese problema? <p><b>Existen varias consecuencias a la pandemia que todavía sigue, entre las evidentes se encuentran el estado de salud física y mental de las personas en el mundo, así como las reperusiones financieras. Sin embargo, la contaminación en general ha incrementado, esto a partir de la necesidad del uso de jeringas, guantes, plásticos, etc. que es demandado para mantenernos salubres, aunque esto no signifique la "salubridad" del planeta. Una de las herramientas más utilizadas y deshechadas son las ascarillas, las cuales pueden llegar a basureros y ríos, donde sus elásticos pueden ser confundidos tanto por aves como peces por comida, aumentando la ingesta de plásticos en la vida animal. Se estima que el año 2050 el peso del plástico podría ser mayor que el de los peces en el océano, y las mascarillas pueden ser un contaminante de alto impacto en estas épocas. Además, cada mascarilla contiene de 3 a 4 gramos de polipropileno, pero un problema es que pueden ser difíciles de reciclar debido al riesgo de infección.</b></p> <p><b>Nosotras queremos contribuir a la mejora del medio ambiente y su cuidado a largo plazo. Por lo cual queremos mejorar esta situación que nos atraviesa y está tan presente para todxs.</b></p>
+- Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): <p><b>Crear una consciencia acerca de estos eféctos usando medios de comunicación masivos, que incluiría el _saber cómo deshechar correctamente una mascarilla_, así como dar apoyo a centros especializados de reciclaje o recolección de deshechos de este tipo.</b> </p>
+- Describe las tareas que harán cada miembro de su grupo: <p><b>Primera fase</b>: Para la primera fase esperamos contribuir equitativamente con ideas de la problemática, soluciones y un diseo que al final juntaremos para incluir elementos propuestos por las dos.</p>
+- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí: <b>_
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
